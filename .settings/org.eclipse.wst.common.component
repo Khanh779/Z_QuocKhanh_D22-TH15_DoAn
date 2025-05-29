@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+            
+    
+    <wb-module deploy-name="Z_QuocKhanh_D22-TH15_DoAn">
+                        
+        
+        <wb-resource deploy-path="/" source-path="/src/main/webapp" tag="defaultRootSource"/>
+                        
+        
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/java"/>
+                        
+        
+        <property name="java-output-path" value="/Z_QuocKhanh_D22-TH15_DoAn/build/classes"/>
+        <property name="context-root" value="Z_QuocKhanh_D22-TH15_DoAn"/>
+                    
+    
+    </wb-module>
+        
+
+</project-modules>
